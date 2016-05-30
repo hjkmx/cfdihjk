@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" version="3.2" serie="F" folio="1234" fecha="2016-05-30T13:23:37" sello="VAUa8BHsAN7pXQGsTKw8OM2NzCpIAhV7cfAcTWr8z6I/v+ccT+67qy7bdpp+h+hkQyFxucawZ8ZPbcJIMurm8WK2uFAwXq49MoFgfFfMrrtFxJDEJzVGWrwyv7B53ZbPoZBAHTqDa+ciuJqF5kbRoF0vp0Coc2kYpvJL27t8G38=" formaDePago="forma de pago" noCertificado="00001000000202525118" certificado="MIIE/TCCA+WgAwIBAgIUMzAwMDEwMDAwMDAxMDAwMDA4MDAwDQYJKoZIhvcNAQEFBQAwggFvMRgwFgYDVQQDDA9BLkMuIGRlIHBydWViYXMxLzAtBgNVBAoMJlNlcnZpY2lvIGRlIEFkbWluaXN0cmFjacOzbiBUcmlidXRhcmlhMTgwNgYDVQQLDC9BZG1pbmlzdHJhY2nDs24gZGUgU2VndXJpZGFkIGRlIGxhIEluZm9ybWFjacOzbjEpMCcGCSqGSIb3DQEJARYaYXNpc25ldEBwcnVlYmFzLnNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxEjAQBgNVBAcMCUNveW9hY8OhbjEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTIwMAYJKoZIhvcNAQkCDCNSZXNwb25zYWJsZTogSMOpY3RvciBPcm5lbGFzIEFyY2lnYTAeFw0xMDA3MzAxNjU4NDBaFw0xMjA3MjkxNjU4NDBaMIGWMRIwEAYDVQQDDAlNYXRyaXogU0ExEjAQBgNVBCkMCU1hdHJpeiBTQTESMBAGA1UECgwJTWF0cml6IFNBMSUwIwYDVQQtExxBQUEwMTAxMDFBQUEgLyBBQUFBMDEwMTAxQUFBMR4wHAYDVQQFExUgLyBBQUFBMDEwMTAxSERGUlhYMDExETAPBgNVBAsMCFVuaWRhZCAxMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDD0ltQNthUNUfzq0t1GpIyapjzOn1W5fGM5G/pQyMluCzP9YlVAgBjGgzwYp9Z0J9gadg3y2ZrYDwvv8b72goyRnhnv3bkjVRKlus6LDc00K7Jl23UYzNGlXn5+i0HxxuWonc2GYKFGsN4rFWKVy3Fnpv8Z2D7dNqsVyT5HapEqwIDAQABo4HqMIHnMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMB0GA1UdDgQWBBSYodSwRczzj5H7mcO3+mAyXz+y0DAuBgNVHR8EJzAlMCOgIaAfhh1odHRwOi8vcGtpLnNhdC5nb2IubXgvc2F0LmNybDAzBggrBgEFBQcBAQQnMCUwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNhdC5nb2IubXgvMB8GA1UdIwQYMBaAFOtZfQQimlONnnEaoFiWKfU54KDFMBAGA1UdIAQJMAcwBQYDKgMEMBMGA1UdJQQMMAoGCCsGAQUFBwMCMA0GCSqGSIb3DQEBBQUAA4IBAQArHQEorApwqumSn5EqDOAjbezi8fLco1cYES/PD+LQRM1Vb1g7VLE3hR4S5NNBv0bMwwWAr0WfL9lRRj0PMKLorO8y4TJjRU8MiYXfzSuKYL5Z16kW8zlVHw7CtmjhfjoIMwjQo3prifWxFv7VpfIBstKKShU0qB6KzUUNwg2Ola4t4gg2JJcBmyIAIInHSGoeinR2V1tQ10aRqJdXkGin4WZ75yMbQH4L0NfotqY6bpF2CqIY3aogQyJGhUJji4gYnS2DvHcyoICwgawshjSaX8Y0Xlwnuh6EusqhqlhTgwPNAPrKIXCmOWtqjlDhho/lhkHJMzuTn8AoVapbBUnj" condicionesDePago="condiciones de pago" subTotal="0.333333" descuento="0.082759" motivoDescuento="motivo descuento" TipoCambio="0.000856" Moneda="moneda" total="0.000856" tipoDeComprobante="ingreso" metodoDePago="metodo de pago" LugarExpedicion="México DF" NumCtaPago="num cta pago" FolioFiscalOrig="folio fiscal original" SerieFolioFiscalOrig="serie folio fiscal original" FechaFolioFiscalOrig="2016-05-30T13:23:37" MontoFolioFiscalOrig="0.272727" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+    <cfdi:Emisor rfc="XAXX010101000" nombre="LA EMPRESA PATO SA DE CV">
+        <cfdi:DomicilioFiscal calle="calle" noExterior="noExterior" noInterior="noInterior" colonia="colonia" localidad="localidad" referencia="referencia" municipio="municipio" estado="estado" pais="pais" codigoPostal="12345"/>
+        <cfdi:ExpedidoEn calle="calle" noExterior="noExterior" noInterior="noInterior" colonia="colonia" localidad="localidad" referencia="referencia" municipio="municipio" estado="estado" pais="pais" codigoPostal="12345"/>
+        <cfdi:RegimenFiscal Regimen="Regimen General de Ley Personas Morales"/>
+    </cfdi:Emisor>
+    <cfdi:Receptor rfc="XAXX010101000" nombre="ACME SC">
+        <cfdi:Domicilio calle="calle" noExterior="noExterior" colonia="colonia" referencia="referencia" municipio="municipio" estado="estado" pais="pais" codigoPostal="12345"/>
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto cantidad="0.50" unidad="unidad 1" noIdentificacion="no Identificacion 1" descripcion="descripcion 1" valorUnitario="10.00" importe="5.00">
+            <cfdi:CuentaPredial numero="0349328432"/>
+        </cfdi:Concepto>
+        <cfdi:Concepto cantidad="1.50" unidad="unidad 2" descripcion="descripcion 2" valorUnitario="5.00" importe="7.50"/>
+        <cfdi:Concepto cantidad="1.00" unidad="unidad 3" descripcion="descripcion 3" valorUnitario="1.00" importe="1.00">
+            <cfdi:InformacionAduanera numero="numero aduana a" fecha="2014-12-31"/>
+            <cfdi:InformacionAduanera numero="numero aduana b" fecha="2015-02-01"/>
+        </cfdi:Concepto>
+        <cfdi:Concepto cantidad="2.00" unidad="unidad 4" descripcion="descripcion 4" valorUnitario="2.00" importe="4.00">
+            <cfdi:Parte cantidad="0.428571" unidad="unidad 4" descripcion="descripcion 4" valorUnitario="2.00" importe="4.00">
+                <cfdi:InformacionAduanera numero="numero aduana a" fecha="2014-12-31"/>
+                <cfdi:InformacionAduanera numero="numero aduana b" fecha="2015-02-01"/>
+            </cfdi:Parte>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosRetenidos="0.64" totalImpuestosTrasladados="0.27">
+        <cfdi:Retenciones>
+            <cfdi:Retencion impuesto="IVA" importe="0.27"/>
+            <cfdi:Retencion impuesto="ISR" importe="0.37"/>
+        </cfdi:Retenciones>
+        <cfdi:Traslados>
+            <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="0.16"/>
+            <cfdi:Traslado impuesto="IVA" tasa="11.00" importe="0.11"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+</cfdi:Comprobante>
