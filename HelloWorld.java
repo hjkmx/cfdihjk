@@ -14,7 +14,7 @@ public class HelloWorld
 		cfdi.setSerie("F");
 		cfdi.setFolio("1234");
 		cfdi.setFormaDePago("forma de pago");
-		cfdi.setNoCertificado("00001000000202525118");
+		cfdi.setNoCertificado("00000000000123456789");
 		try
 		{
 			cfdi.setCertificado(cfdi.utils.encodeBase64ByteArray(org.apache.commons.io.FileUtils.readFileToByteArray(new File("cfdihjk/resources/certificados_prueba/aaa010101aaa_csd_01.cer"))));
